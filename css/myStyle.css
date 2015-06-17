@@ -1,0 +1,16 @@
+@charset "utf-8";
+/* CSS Document */
+
+.marginTopButtom{
+	margin-top:20px; 
+	margin-bottom:20px;
+}
+.marginRight {
+	margin-right:20px;
+}
+.my_navbar-brand {
+	float:none;
+}
+.max_height{
+	min-height:340px;
+}
